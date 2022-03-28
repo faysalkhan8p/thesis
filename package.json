@@ -1,0 +1,16 @@
+{
+  "name": "thesis",
+  "version": "1.0.0",
+  "description": "Thesis benchmarking tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "MD Badsha Faysal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "free-memory": "^1.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
